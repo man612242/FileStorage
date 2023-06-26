@@ -1,0 +1,15 @@
+{
+    "firstname": "Tom",
+    "gender": true,
+    "height": 173,
+    "email": "man612242@gmail.com",
+    "city": {
+        "通訊地址": "新北市",
+        "戶籍地址": "新北市"
+    },
+    "phone": {
+        "市話": "02-29407438",
+        "行動電話": "0939945760"
+    },
+    "cars": ["Harley-Davidson", "KTM", "Ducati"]
+}
